@@ -1,4 +1,5 @@
-(function() {
+
+$(document).ready(function() {
 
  	// http://stackoverflow.com/a/11381730/989439
 	function mobilecheck() {
