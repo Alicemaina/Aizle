@@ -4,7 +4,7 @@ The Aizle is a self-assessment project done at Moringa School. The student is re
 
 ##Contributors
 
-Jackie Macharia
+Alice N Maina
 
 
 ##Features
